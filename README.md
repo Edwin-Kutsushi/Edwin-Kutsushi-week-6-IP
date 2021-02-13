@@ -9,3 +9,13 @@ More details about the formula used in the algorithm, weightings of matches and 
 The men's FIFA World Ranking is a ranking system for men's national teams in association football, currently led by Belgium.[1] The teams of the men's member nations of FIFA, football's world governing body, are ranked based on their game results with the most successful teams being ranked highest. The rankings were introduced in December 1992, and eight teams (Argentina, Belgium, Brazil, France, Germany, Italy, the Netherlands and Spain) have held the top position, of which Brazil have spent the longest ranked first.
 
 A points system is used, with points being awarded based on the results of all FIFA-recognised full international matches.
+### This is the first release.
+Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. 
+
+### Contributing
+
+Fork it 
+Create your feature branch (git checkout -b feature/fooBar)
+Commit your changes (git commit -am 'Add some fooBar')
+Push to the branch (git push origin feature/fooBar)
+Create a new Pull Request
