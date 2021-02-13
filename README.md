@@ -10,11 +10,11 @@ The men's FIFA World Ranking is a ranking system for men's national teams in ass
 
 A points system is used, with points being awarded based on the results of all FIFA-recognised full international matches.
 ### This is the first release.
-Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. 
+Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-week-6-IP.git
 
 ### Contributing
 
-Fork it 
+Fork it https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-week-6-IP.git
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
